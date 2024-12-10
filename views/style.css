@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    justify-content: baseline;
+    margin: 10px;
+    align-items: center;
+    padding: 20px;
+}
+
+nav a {
+    color: black;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+p{
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(193, 225, 236);
+}
